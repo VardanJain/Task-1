@@ -1,4 +1,5 @@
 const CONFIG = {
 
-    API_KEY: 'c138114fa2bc8d40db54f269b42796fb'
+    API_KEY: 'https://kv-task1-vardan.vault.azure.net/secrets/APIkeyTask1/f518a8024bc849f7870967e8f2fbb25d'
 };
+
